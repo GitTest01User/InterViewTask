@@ -295,7 +295,7 @@ span {
 .top-heading {
     font-family: "Inter", sans-serif;
     font-size: 22px;
-    font-weight: 800;
+    font-weight: 700;
     line-height: 24.2px;
     text-align: center;
     text-underline-position: from-font;
@@ -403,7 +403,6 @@ input[type="radio"] {
 
 .border-text h2 {
     text-align: center;
-    text-transform: uppercase;
     font-size: 23px;
     letter-spacing: 1px;
     padding: 11px;
